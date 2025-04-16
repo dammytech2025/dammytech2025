@@ -4,4 +4,10 @@
 
 [LinkedIn](https://linkedin.com/in/adamsanusi)
 
+f you let me know a bit more about:
 
+- Your exact tech stack (React, Vue, etc.)
+
+- Any specific projects or experience
+
+- What you're looking for (job, freelance, just learning)
